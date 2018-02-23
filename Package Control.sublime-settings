@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"Autoprefixer",
+		"Babel",
+		"Babel Snippets",
+		"Color Highlighter",
+		"CSScomb",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"JavaScript & NodeJS Snippets",
+		"JavaScript Snippets",
+		"jQuery",
+		"JS Snippets",
+		"LESS",
+		"Package Control",
+		"SCSS",
+		"Seti_UI",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-jslint",
+		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-csslint",
+		"View In Browser"
+	]
+}

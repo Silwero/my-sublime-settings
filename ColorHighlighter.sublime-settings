@@ -1,0 +1,21 @@
+{
+    "search_colors_in": {
+        "all_content": {
+            "enabled": true,
+            "color_highlighters": {
+                "color_scheme": {
+                    "enabled": true,
+                    "highlight_style": "filled"
+                },
+                "gutter_icons": {
+                    "enabled": false
+                },
+                "phantoms": {
+                    "enabled": false,
+                    "style": "right",
+                    "length": 2
+                }
+            }
+        }
+    }
+}

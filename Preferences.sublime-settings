@@ -1,0 +1,33 @@
+{
+	"Seti_bold_slctdfile_labels": true,
+	"Seti_red_label": true,
+	"Seti_sb_small_padding": true,
+	"Seti_sb_tree_miny": true,
+	"Seti_yellow_map": true,
+	"Seti_yellow_scrollbar": true,
+	"Seti_yellow_statusbar": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"draw_white_space": "all",
+	"font_size": 12,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"match_brackets_angle": true,
+	"rulers":
+	[
+		120,
+		160
+	],
+	"save_on_focus_lost": true,
+	"shift_tab_unindent": true,
+	"show_line_endings": true,
+	"spell_check": true,
+	"tab_size": 2,
+	"theme": "Seti.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true
+}

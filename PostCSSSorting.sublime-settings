@@ -1,0 +1,8 @@
+{
+  "settings": {
+    "PostCSSSorting": {
+      "properties-order": ["padding", "margin"],
+      "sort-on-save": true
+    }
+  }
+}

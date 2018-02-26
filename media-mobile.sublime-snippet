@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+@include media(${1:mobile}) {
+  $2
+}$0
+]]></content>
+  <tabTrigger>incmm</tabTrigger>
+   <scope>source.scss</scope>
+</snippet>

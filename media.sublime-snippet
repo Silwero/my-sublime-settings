@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+@include media($1) {
+  $2
+}$0
+]]></content>
+  <tabTrigger>incm</tabTrigger>
+   <scope>source.scss</scope>
+</snippet>

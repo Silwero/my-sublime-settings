@@ -1,7 +1,7 @@
 <snippet>
   <content><![CDATA[
-($1) => {$0}
+import classes from './$1';
 ]]></content>
-  <tabTrigger>>></tabTrigger>
+  <tabTrigger>impc</tabTrigger>
   <scope>source.js</scope>
 </snippet>

@@ -1,7 +1,7 @@
 <snippet>
   <content><![CDATA[
-($1) => {$0}
+className={classes.$1}
 ]]></content>
-  <tabTrigger>>></tabTrigger>
+  <tabTrigger>cnc</tabTrigger>
   <scope>source.js</scope>
 </snippet>

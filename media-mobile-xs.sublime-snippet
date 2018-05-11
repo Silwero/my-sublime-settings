@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
 @include media(${1:mobile-xs}) {
-  $2
-}$0
+  $0
+}
 ]]></content>
   <tabTrigger>incmx</tabTrigger>
    <scope>source.scss</scope>

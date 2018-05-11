@@ -1,0 +1,7 @@
+[
+  // Toggle high visibility mode
+  {
+    "keys": ["ctrl+alt+v"],
+    "command": "bh_toggle_high_visibility"
+  }
+]

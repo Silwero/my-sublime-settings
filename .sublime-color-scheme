@@ -1,0 +1,8 @@
+{
+  "rules": [
+    {
+      "scope": "brackethighlighter.custom",
+      "foreground": "#CC99CC"
+    }
+  ]
+}

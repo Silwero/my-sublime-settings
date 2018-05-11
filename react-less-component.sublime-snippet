@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+import React from 'react';
+
+const ${1:name} = (props) => (
+  $0
+);
+
+export default ${1:name};
+]]></content>
+  <tabTrigger>rlc</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

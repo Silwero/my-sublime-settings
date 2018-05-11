@@ -1,7 +1,0 @@
-{
-  "config": {
-    "block-indent": "  ",
-    "space-before-opening-brace": " ",
-    "vendor-prefix-align": false
-  }
-}

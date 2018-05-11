@@ -5,13 +5,18 @@
 	],
 	"installed_packages":
 	[
+		"All Autocomplete",
 		"AutoFileName",
 		"Autoprefixer",
 		"Babel",
 		"Babel Snippets",
+		"BracketHighlighter",
 		"Color Highlighter",
+		"CSS3",
 		"CSScomb",
+		"CTags",
 		"Emmet",
+		"GitSavvy",
 		"HTML-CSS-JS Prettify",
 		"JavaScript & NodeJS Snippets",
 		"JavaScript Snippets",
@@ -20,13 +25,13 @@
 		"LESS",
 		"Package Control",
 		"ReactJS Snippets",
+		"RemoveSelection",
 		"SCSS",
 		"Seti_UI",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-contrib-jslint",
-		"SublimeLinter-contrib-scss-lint",
 		"SublimeLinter-csslint",
 		"View In Browser"
 	]

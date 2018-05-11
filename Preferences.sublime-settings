@@ -1,15 +1,16 @@
 {
 	"Seti_bold_slctdfile_labels": true,
-	"Seti_yellow_label": true,
 	"Seti_sb_small_padding": true,
 	"Seti_sb_tree_miny": true,
+	"Seti_yellow_label": true,
 	"Seti_yellow_map": true,
 	"Seti_yellow_scrollbar": true,
 	"Seti_yellow_statusbar": true,
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"detect_indentation": false,
 	"draw_white_space": "all",
-	"font_size": 12,
+	"font_size": 11,
 	"highlight_line": true,
 	"ignored_packages":
 	[
@@ -21,7 +22,6 @@
 		120,
 		160
 	],
-	"save_on_focus_lost": true,
 	"shift_tab_unindent": true,
 	"show_line_endings": true,
 	"spell_check": true,
